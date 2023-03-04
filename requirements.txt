@@ -1,0 +1,7 @@
+Create a GitHub repository (use the name of your project in the table below) with two branches dev and main. 
+Add your assigned collaborator to the repository you’ve created
+Create issues  for you and your collaborator with milestones 
+Create a text file called requirements  in the repository you’ve created and specify your expectations therein
+Share an image of how you will like your finished project should be in mattermost (KIT Cohort II Channel)
+Make a pull request and merge your collaborator’s work if satisfactory 
+Create and submit a GitHub page link in your channel on mattermost that shows your completed project
